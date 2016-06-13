@@ -13,6 +13,6 @@ and development.
 
 ## Details
 * [State Machine](state_machine.md)
-* [Processes](processed.md)
+* [Processes](processes.md)
 * [Scheduler](scheduler.md)
 * [Technology Stack](tech_stack.md)
